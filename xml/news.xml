@@ -7,8 +7,8 @@
 <entry>
 <title type="html">Δ魔绫像素地牢3-30维护通知Δ</title>
 <link href="https://lingasdj.lanzouh.com/izhbC02a65qf" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-4-1T03:00:00+00:00</published>
-<updated>3055-4-1T03:00:00+00:00</updated>
+<published>3055-4-2T03:00:00+00:00</published>
+<updated>3055-4-2T03:00:00+00:00</updated>
 <id>AGD10</id>
 <author>
 <name>JDSA Ling</name>
@@ -20,7 +20,7 @@
 3.30上半段维护更新通知
 1.吸血鬼刀改进 感谢@A神 的建议
 公式为：角色最大血量*0.01+武器等级*0.5+0.8
-温馨提示：是取整 6.9=9 而不是四舍五入
+温馨提示：是取整 6.9=6 而不是四舍五入
 举例：0级武器 1级角色
 20x0.01+0*0.5+0.8=0.2+0+0.8=1
 10级武器 10级角色
@@ -29,6 +29,7 @@
 2.修复重生十字架bug
 ================================
 点击下方Δ查阅更多Δ以获得新版本！
+Γ温馨提示：如果没有按钮则说明版本过低Γ
 </summary>
 </entry>
 <entry>
