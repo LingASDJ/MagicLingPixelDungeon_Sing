@@ -22,6 +22,7 @@
 <summary type="html">
 感谢你下载疯狂的魔绫像素地牢，
 评选方式：
+0.特等奖 （首通击败古神) (25元)
 1.狂人日记 到达EX古神层 截图 随机选1名（20元）
 2.疯人之旅 到达矮人国王层并打它一半血量 截图 随机选2名（10元）
 3.巅疯行动 到达DM720层并打它一半血量 截图 随机内选3名（5元）
@@ -66,12 +67,13 @@ DM720会和寒冰魔女聚会
 <category term="SHPD_ICON_v464: ITEM: 152"/>
 <category term="SHPD_ICON_v533: ITEM:100"/>
 <summary type="html">
+0st - 熊猫头 - 古神 - 完全击败(首通)-特等奖
+=========================================
 1st - 马明威 - 古神 - 490血-一等奖候选
-2nd - 熊猫头 - 古神 - 600血-一等奖候选
-3rd - 松雨星 - 古神 - 3599血-一等奖候选 
-4th - 地牢八年玩家 - 矮人国王-完全击败-二等奖
-5th - 拾三不是十三 - DM720-201血-三等奖
-6th - 口水猫 - DM720-半血-三等奖
+2nd - 松雨星 - 古神 - 3599血-一等奖候选 
+3rd - 地牢八年玩家 - 矮人国王-完全击败-二等奖
+4th - 拾三不是十三 - DM720-201血-三等奖
+5th - 口水猫 - DM720-半血-三等奖
 </summary>
 </entry>
 <!-- title type="html">卡片标题 不会显示在游戏里面</title><subtitle>卡片副标题 不会显示在游戏里面</subtitle><author><name>JDSA Ling</name></author><entry><title type="html">游戏内卡片标题</title><link href="要跳转的源网址 是查看更多的按钮链接跳转" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://shatteredpixel.com/blog/shatteredpd-v100-and-ios-release 这里是id 非网页链接</id><author><name>输入作者名字</name></author><category term="SHPD_INGAME" /><category term="SHPD_ICON_v464: ITEM: 63" /><category term="SHPD_ICON_v533: ITEM: 61" /><summary type="html">游戏内卡片描述 魔绫像素地牢已经迁移到SPDV0.9.2b</summary></entry -->
