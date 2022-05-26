@@ -63,8 +63,7 @@
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 152"/>
-<category term="SHPD_ICON_v533: ITEM:100"/>
+<category term="SHPD_ICON_v464: ITEM: 72"/>
 <summary type="html">
 虽然当时0.5已经说是最终版了，但是由于当时内容还比较少，
 加上还有一些问题。因此，0.6是优化和追加一些新内容。
@@ -82,7 +81,7 @@
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 241"/>
+<category term="SHPD_ICON_v464: ICON: CHANGES"/>
 <summary type="html">
 4.11更新说明：
 1.商人抢劫系统得到一定的改进
