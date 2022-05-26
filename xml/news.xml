@@ -95,7 +95,7 @@ Welcome You！！！
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ICON: CHANGES"/>
+<category term="SHPD_ICON_v464: ITEM: 549"/>
 <summary type="html">
 4.11更新说明：
 1.商人抢劫系统得到一定的改进
@@ -113,7 +113,7 @@ Welcome You！！！
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ICON: CHANGES"/>
+<category term="SHPD_ICON_v464: ITEM: 549"/>
 <summary type="html">
 3.30上半段维护更新通知
 1.吸血鬼刀改进 感谢@A神 的建议
@@ -142,8 +142,7 @@ Welcome You！！！
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 45"/>
-<category term="SHPD_ICON_v533: ITEM:35"/>
+<category term="SHPD_ICON_v464: ITEM: 526"/>
 <summary type="html">黑暗到来，暴风雨肆虐了整个地面
 阴沉的环境，必定会有不好的事情发生。
 英雄们已经击败古神，从地牢归来，
@@ -162,8 +161,8 @@ Welcome You！！！
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 152"/>
-<category term="SHPD_ICON_v533: ITEM:100"/>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 527"/>
 <summary type="html">为何三百年前一场大火让这里毁于一旦？
 霜落雨凉真实目的是什么？
 夏洛是谁，回忆又有怎样的计谋。
@@ -182,17 +181,17 @@ yog说出了一个惊天的秘密，肇事者竟然是■■■■■■■■!
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 152"/>
-<category term="SHPD_ICON_v533: ITEM:100"/>
-<summary type="html">霜落羽凉：情况比想象的糟糕
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 528"/>
+<summary type="html">冷群：情况比想象的糟糕
 ？？？：此话从何说起？
-霜落羽凉：我们可能无法继续掩埋下去了！不如我们……
+冷群：我们可能无法继续掩埋下去了！不如我们……
 ？？？：不可能！她就是祸乱之源！
-霜落羽凉：可……是……
+冷群：可……是……
 ？？？：如果你想保护你的子民，那么就应该服从安排！
-霜落羽凉：……，遵命，血魔伯爵！
+冷群：……，遵命，血魔伯爵！
 血魔伯爵：那么，她那边呢？
-霜落羽凉：已经在等着他们了！
+冷群：已经在等着他们了！
 血魔伯爵：好的，游戏，才刚刚开始！！！
 </summary>
 </entry>
