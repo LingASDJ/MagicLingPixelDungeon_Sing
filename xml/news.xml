@@ -5,10 +5,59 @@
 <updated>2021-08-17T18:04:16+00:00</updated>
 <id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
 <entry>
+<title type="html">致谢名单</title>
+<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-5-1T03:00:00+00:00</published>
+<updated>3055-5-1T03:00:00+00:00</updated>
+<id>AGD9</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 152"/>
+<category term="SHPD_ICON_v533: ITEM:100"/>
+<summary type="html">亲爱的测试朋友们:
+如今绫的Java技术已经是慢慢提升上去了，
+特别再次感谢下列人员！
+特别感谢：
+-冷群
+-小狐狸
+-Fang
+-Ob-Sir
+-Tianscar
+-不是史神
+-最强浴火
+-猫羽霖
+-SmuJB
+-CodenameE
+
+狂暴宣传组长：
+那些回忆
+罗贝里
+泰勒
+
+原创音乐鸣谢：
+-Prohonor
+
+原创素材鸣谢：
+-被子
+-冷群
+
+引导者：
+-REN (夜临作者)
+-Alex (红龙)
+-SmuJB (诅咒作者)
+-TrashBox (经验作者)
+-Evan (破碎)
+-Tianscar (碳化作者)
+以及各位测试人员！
+</summary>
+</entry>
+<entry>
 <title type="html">魔绫像素地牢-V0.6更新通知</title>
 <link href="https://jq.qq.com/?_wv=1027&k=NMWA6I0Y" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-4-7T03:00:00+00:00</published>
-<updated>3055-4-7T03:00:00+00:00</updated>
+<published>3055-4-8T03:00:00+00:00</published>
+<updated>3055-4-8T03:00:00+00:00</updated>
 <id>AGD10</id>
 <author>
 <name>JDSA Ling</name>
@@ -70,25 +119,6 @@
 3.修复上个版本过滤器问题
 点击下方Δ查阅更多Δ以获得新版本！
 Γ温馨提示：如果没有按钮则说明版本过低Γ
-</summary>
-</entry>
-<entry>
-<title type="html">Γ十字架BUG紧急通知Γ</title>
-<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-3-31T03:00:00+00:00</published>
-<updated>3055-3-31T03:00:00+00:00</updated>
-<id>AGD10</id>
-<author>
-<name>JDSA Ling</name>
-</author>
-<category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 152"/>
-<category term="SHPD_ICON_v533: ITEM:100"/>
-<summary type="html">亲爱的魔绫地牢玩家，经一些玩家反应，
-  十字架在更新后出现了重大Bug,
-  该Bug会导致Γ未祝福的十字架Γ的复活不会清空背包。
-  对此，Ling表示非常抱歉。同时，Ling将尽快修复该Bug,
-  请等待后续动态情报。
 </summary>
 </entry>
 <entry>
@@ -195,75 +225,6 @@ yog说出了一个惊天的秘密，肇事者竟然是■■■■■■■■!
 更要感谢奈亚子，冷群怪，Danicel，碳酸等大力帮助。
 感谢你们，同时祝所有人新年快乐，2022年，我们一起继续努力。
                           ---Dev:JDSA Ling
-</summary>
-</entry>
-<entry>
-<title type="html">绫的一封信</title>
-<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-2-21T03:00:00+00:00</published>
-<updated>3055-2-21T03:00:00+00:00</updated>
-<id>AGD9</id>
-<author>
-<name>JDSA Ling</name>
-</author>
-<category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 152"/>
-<category term="SHPD_ICON_v533: ITEM:100"/>
-<summary type="html">亲爱的测试朋友们:
-一直以来，魔绫像素地牢都在为Play Hard,Easy Good，
-这个方向发展。
-今天，已经是12月29号，距离2021结束又快了一步。
-魔绫像素地牢年末更新也在筹备之中，
-另外，其实，我到现在Java都还没有系统的学习。
-加上明年我事情更加的多，
-所以，0.5最终正式版更新后，
-魔绫像素地牢将进入暂停开发时间。
-一方面是我需要去学习Java提高编码技术，
-另一方面则是为了明年的一些事情。
-无论如何，衷心的感谢每位游玩魔绫像素地牢的人，
-祝大家都能旗开得胜，水到渠成。
-</summary>
-</entry>
-<entry>
-<title type="html">魔绫像素地牢-0.7周年了！</title>
-<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3046-1-16T00:00:00+00:00</published>
-<updated>3046-1-16T00:00:00+00:00</updated>
-<id>R52</id>
-<author>
-<name>JDSA Ling</name>
-</author>
-<category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 63"/>
-<category term="SHPD_ICON_v533: ITEM:234"/>
-<summary type="html">从2月到现在，魔绫已经7个月了。
-在此，我非常谢谢各位测试人员的大力支持。
-特别感谢：
--冷群怪
--小狐狸
--Fang
--Ob-Sir
--Tianscar
--不是史神
--最强浴火
--猫羽霖
-
-狂暴宣传组长：
-那些回忆
-
-原创音乐鸣谢：
--Prohonor
-
-原创素材鸣谢：
--被子
-
-引导者：
--REN
--Alex (红龙)
--SmuJB (诅咒作者)
--TrashBox (经验作者)
--Evan (破碎)
-以及各位测试人员！
 </summary>
 </entry>
 <!-- title type="html">卡片标题 不会显示在游戏里面</title><subtitle>卡片副标题 不会显示在游戏里面</subtitle><author><name>JDSA Ling</name></author><entry><title type="html">游戏内卡片标题</title><link href="要跳转的源网址 是查看更多的按钮链接跳转" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://shatteredpixel.com/blog/shatteredpd-v100-and-ios-release 这里是id 非网页链接</id><author><name>输入作者名字</name></author><category term="SHPD_INGAME" /><category term="SHPD_ICON_v464: ITEM: 63" /><category term="SHPD_ICON_v533: ITEM: 61" /><summary type="html">游戏内卡片描述 魔绫像素地牢已经迁移到SPDV0.9.2b</summary></entry -->
