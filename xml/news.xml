@@ -21,6 +21,30 @@
 </summary>
 </entry>
 <entry>
+<title type="html">矮人领主机制说明</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-5-6T03:00:00+00:00</published>
+<updated>3055-5-6T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 555"/>
+<summary type="html">血量500血，主要有两大阶段。
+200前一个阶段，200以下二阶段。
+技能：
+技能一--健步如飞（在水里移动速度大幅度提升，伤害大幅度提升)
+技能二--矮人军队（持续召唤矮人军队）
+技能三--魔力爆发（蓄力后冲击敌人，敌人获得易伤）
+技能四--荣耀之光（召唤全屏大激光 造成高额伤害）
+技能五--审判降临（矮人大师立刻召唤激光使玩家陷入失明）
+技能六--英勇无畏（军队立刻自爆造成大规模伤害）
+技能七--矮人意志（血量低于200，速度和伤害大幅度提升，并出现额外特殊召唤敌人，
+同时自身进入永久无敌状态（需要击败特别怪物才能扣大师的血））
+</summary>
+</entry>
+<entry>
 <title type="html">V0.6-BETA7-现已更新</title>
 <link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
 <published>3055-5-6T03:00:00+00:00</published>
